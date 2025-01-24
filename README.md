@@ -2,7 +2,7 @@
 
 :sunglasses: A student sharing my journey and learnings through the interweb<br/>
 :school_satchel: Studying [Web Design and Development](https://www.nait.ca/programs/dmit-web-design-development?term=2025-winter&intake=e50f26e1-00b0-4ac6-ba9b-8d2bd807265f) at Northern Alberta Institute of Technology<br/>
-:cloud: Currently advancing my skills in PHP, MySQL, design prototyping, WordPress, and Search Engine Optimization
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/> 
