@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mark 👋</h1>
 
-:sunglasses: A student sharing my journey and learnings through the interweb<br/>
-:school_satchel: Studying [Web Design and Development](https://www.nait.ca/programs/dmit-web-design-development?term=2025-winter&intake=e50f26e1-00b0-4ac6-ba9b-8d2bd807265f) at Northern Alberta Institute of Technology<br/>
+:sunglasses: A web developer and designer sharing my journey and learnings through the interweb<br/>
+:school_satchel: Studied [Web Design and Development](https://www.nait.ca/programs/dmit-web-design-development?term=2025-winter&intake=e50f26e1-00b0-4ac6-ba9b-8d2bd807265f) at Northern Alberta Institute of Technology<br/>
 
 
 # 💻 Tech Stack:
